@@ -117,6 +117,39 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Databases
+*.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Cache / temp
+*.cache
+*.tmp
+*.pdb
+
+# IDE configs
+.idea/
+.vscode/
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
+
 
 # Visual Studio Trace Files
 *.e2e
